@@ -34,7 +34,7 @@ Template from this [MICROVERSE](https://www.microverse.org/)
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/silviatofana/Math-Magicians.git/issues).
+Feel free to check the [issues page](https://github.com/silviatofana/Math-Magicians/issues).
 
 ## Contributers
 
