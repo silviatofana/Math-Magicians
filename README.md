@@ -19,7 +19,7 @@ You can have a copy of this repo run on your local machine by just directly clon
 
 ### Live Demo
 
-<!-- Click [here](https://silviatofana.github.io/math-magician/)! -->
+<!-- Click [here](https://silviatofana.github.io/Math-Magicians/)! -->
 Coming soon!
 
 ### Prerequisites
