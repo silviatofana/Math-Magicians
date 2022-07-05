@@ -1,6 +1,5 @@
-import React, { useState } from "react";
-import calculate from "../logic/calculate";
-
+import React, { useState } from 'react';
+import calculate from '../logic/calculate';
 
 const Calculator = () => {
   const [state, setState] = useState({
@@ -9,19 +8,18 @@ const Calculator = () => {
     operation: null,
   });
 
-
   const updateObject = (e) => {
     const myObj = calculate(state, e.target.textContent);
     setState(myObj);
   };
 
   const { next, operation, total } = state;
-  const op = operation === "%" ? "mod" : operation;
-  let result = "";
+  const op = operation === '%' ? 'mod' : operation;
+  let result = '';
   if (total) {
-    result = `${total} ${op || ""} ${next || ""}`;
+    result = `${total} ${op || ''} ${next || ''}`;
   } else if (next) {
-    result = `${next} ${op || ""}`;
+    result = `${next} ${op || ''}`;
   }
 
   return (
@@ -181,5 +179,3 @@ const Calculator = () => {
   );
 };
 export default Calculator;
-
-
