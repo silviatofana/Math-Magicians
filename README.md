@@ -19,7 +19,7 @@ You can have a copy of this repo run on your local machine by just directly clon
 
 ### Live Demo
 
-<!-- Click [here](https://gedeonts.github.io/math-magician/)! -->
+<!-- Click [here](https://silviatofana.github.io/math-magician/)! -->
 Coming soon!
 
 ### Prerequisites
@@ -36,18 +36,19 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 
 1. - [ ] Open the `Terminal`
 2. - [ ] Navigate to the directory where you want to add this repository
-3. - [ ] Run `git clone https://github.com/GedeonTS/math-magician.dgit`
+3. - [ ] Run `git clone https://github.com/silviatofana/math-magician.dgit`
 4. - [ ] Run `npm install` to install the necessary modules
 5. - [ ] Run `npm start`
 
 
 ## Authors
 
-👤 **GedeonTS**
+👤 **Silvia Tofana **
 
-- GitHub: [@GedeonTS](https://github.com/GedeonTS)
-- Twitter: [@Gedeon191](https://twitter.com/Gedeon191)
-- LinkedIn: [Ushindi Gedeon](https://linkedin.com/in/ushindi-gedeon-73032a228)
+- GitHub: [@silviatofana](https://github.com/silviatofana)
+- LinkedIn: [@silviatofana](www.linkedin.com/in/silvia-tofana-10b852186)
+- Twitter: [@silviatofana](https://twitter.com/SilviaTofana)
+
 
 
 
