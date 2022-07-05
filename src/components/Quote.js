@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Quote() {
+function quote() {
   return (
     <section className="quote-section">
       <p>
@@ -12,5 +12,5 @@ function Quote() {
   );
 }
 
-export default Quote;
+export default quote;
 

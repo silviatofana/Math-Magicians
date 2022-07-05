@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import { Routes, Route } from "react-router-dom";
-import Calculator from "./components/Calculator";
-import Home from "./components/Home";
-import Quote from "./components/Quote";
-import Header from "./components/Header";
+import calculator from "./components/calculator";
+import home from "./components/home";
+import quote from "./components/quote";
+import header from "./components/header";
 
 class App extends Component {
   render() {
@@ -11,9 +11,9 @@ class App extends Component {
       <>
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="Quote" element={<Quote />} />
-          <Route path="Calculator" element={<Calculator />} />
+          <Route path="/" element={<home />} />
+          <Route path="quote" element={<quote />} />
+          <Route path="calculator" element={<calculator />} />
         </Routes>
       </>
     );

@@ -6,7 +6,7 @@ import '@testing-library/jest-dom';
 describe('Test of Quote page', () => {
     it('test if Quote page is rendered', () => {
         const quoteTest = renderer
-            .create(<Quote />)
+            .create(<quote />)
             .toJSON();
         expect(quoteTest).toMatchSnapshot();
     });

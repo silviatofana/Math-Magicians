@@ -1,14 +1,14 @@
 import React from "react";
 import renderer from 'react-test-renderer';
 import { HashRouter as Router } from "react-router-dom";
-import Header from "../components/header";
+import header from "../components/header";
 import '@testing-library/jest-dom';
 
 
 describe('Test of Header', () => {
     it('test if Header is rendered', () => {
         const headerTest = renderer
-            .create(<Router><Header /></Router>)
+            .create(<Router><header /></Router>)
             .toJSON();
         expect(headerTest).toMatchSnapshot();
     });
