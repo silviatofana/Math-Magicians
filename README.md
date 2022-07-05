@@ -16,6 +16,7 @@ Read a random math-related quote..
 ### Getting Started
 
 You can have a copy of this repo run on your local machine by just directly cloning it.
+https://github.com/silviatofana/Math-Magicians.git
 
 ### Live Demo
 
