@@ -5,7 +5,7 @@ exports[`Test of Calculator page test if Calculator page is rendered 1`] = `
   className="calculator-section"
 >
   <h2>
-    Let's do some Maths!
+    Let do some Maths!
   </h2>
   <div
     className="container"
@@ -177,4 +177,3 @@ exports[`Test of Calculator page test if Calculator page is rendered 1`] = `
   </div>
 </section>
 `;
-

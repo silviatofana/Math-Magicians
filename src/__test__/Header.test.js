@@ -1,7 +1,7 @@
 import React from "react";
 import renderer from 'react-test-renderer';
 import { HashRouter as Router } from "react-router-dom";
-import Header from "../components/Header";
+import Header from "../components/Header.js";
 import '@testing-library/jest-dom';
 
 
