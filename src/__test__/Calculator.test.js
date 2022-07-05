@@ -1,6 +1,6 @@
 import React from "react";
 import renderer from 'react-test-renderer';
-import Calculator from "../components/Calculator.js";
+import Calculator from "../components/calculator";
 import '@testing-library/jest-dom';
 
 describe('Test of Calculator page', () => {

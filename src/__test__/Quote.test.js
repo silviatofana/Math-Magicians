@@ -1,6 +1,6 @@
 import React from "react";
 import renderer from 'react-test-renderer';
-import Quote from "../components/Quote.js";
+import Quote from "../components/quote";
 import '@testing-library/jest-dom';
 
 describe('Test of Quote page', () => {

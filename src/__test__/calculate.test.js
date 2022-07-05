@@ -1,4 +1,4 @@
-import calculate from "../logic/calculate.js";
+import calculate from "../logic/calculate";
 
 describe('Unit tests of calculate.js', () => {
   test('testing 1st operand', () => {
