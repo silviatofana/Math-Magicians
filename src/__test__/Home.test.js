@@ -1,6 +1,6 @@
 import React from "react";
 import renderer from 'react-test-renderer';
-import home from "../components/home";
+import Home from "../components/Home";
 import '@testing-library/jest-dom';
 
 describe('Test of home page', () => {
@@ -9,5 +9,5 @@ describe('Test of home page', () => {
             .create(<Home />)
             .toJSON();
         expect(homeTest).toMatchSnapshot();
-    });
-});
+    })
+})

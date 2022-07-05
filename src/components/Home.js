@@ -1,6 +1,6 @@
 import React from 'react';
 
-function home() {
+function Home() {
     return (
         <>
             <section className="home-section">
@@ -46,4 +46,4 @@ function home() {
     );
 }
 
-export default home;
+export default Home;

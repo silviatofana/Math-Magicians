@@ -1,7 +1,7 @@
 import React from 'react';
-import { Link } from "react-router-dom";
+import { Link } from 'react-router-dom';
 
-function header() {
+function Header() {
     return (
         <header>
             <h1>Math Magician</h1>
@@ -14,4 +14,4 @@ function header() {
     );
 }
 
-export default header;
+export default Header;

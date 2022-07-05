@@ -1,6 +1,6 @@
 import React from "react";
 import renderer from 'react-test-renderer';
-import calculator from "../components/calculator";
+import Calculator from "../components/Calculator";
 import '@testing-library/jest-dom';
 
 describe('Test of Calculator page', () => {
@@ -9,5 +9,5 @@ describe('Test of Calculator page', () => {
             .create(<Calculator />)
             .toJSON();
         expect(calculatorTest).toMatchSnapshot();
-    });
-});
+    })
+})
