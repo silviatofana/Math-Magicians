@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-# math-magician
 
 
 
@@ -16,10 +14,13 @@ Read a random math-related quote..
 ### Getting Started
 
 You can have a copy of this repo run on your local machine by just directly cloning it.
+https://github.com/silviatofana/Math-Magicians.git
 
 ### Live Demo
 
-<!-- Click [here](https://gedeonts.github.io/math-magician/)! -->
+
+<!-- Click [here](https://silviatofana.github.io/Math-Magicians/)! -->
+
 Coming soon!
 
 ### Prerequisites
@@ -48,6 +49,7 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 - GitHub: [@GedeonTS](https://github.com/GedeonTS)
 - Twitter: [@Gedeon191](https://twitter.com/Gedeon191)
 - LinkedIn: [Ushindi Gedeon](https://linkedin.com/in/ushindi-gedeon-73032a228)
+
 
 
 
