@@ -5,7 +5,7 @@ exports[`Test of Quote page test if Quote page is rendered 1`] = `
   className="quote-section"
 >
   <p>
-    Mathmatics is not about numbers,eauations, computations, or algorithms: it is about understanding.
+    Mathmatics is not about numbers,equations, computations, or algorithms: it is about understanding.
     <span
       className="author"
     >
