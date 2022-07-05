@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1%;
+    border-bottom: solid 1px #5454;
+    box-shadow: 10px 10px 10px #5454;
+  }
+  
+  h1 {
+    margin-left: 5%;
+    font-size: 40px;
+    color: grey;
+  }
+  
+  nav {
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 10%;
+  }
+  
+  .menu-item {
+    color: red;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+  }
+  
+  .menu-item:hover {
+    color: blue;
+    transition: all ease-in 0.6s;
+    font-weight: 700;
+  }
+  
+  .container {
+    margin-right: 5%;
+    width: 40vw;
+    height: 55vh;
+  }
+  
+  .home-section {
+    padding: 3%;
+  }
+  
+  .calculator-section {
+    padding-top: 4%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .quote-section {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 10%;
+    font-size: 20px;
+  }
+  
+  .quote-section p {
+    width: 60%;
+  }
+  
+  .author {
+    font-weight: 600;
+  }
+  
+  .calculator-section h2 {
+    margin-left: 10%;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 400;
+  }
+  
+  .input-field {
+    margin: 0;
+    height: 16.66%;
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    background-color: grey;
+    color: #fff;
+    padding-right: 2%;
+    justify-content: center;
+  }
+  
+  .wrapper {
+    width: 100%;
+    height: 83.33%;
+    background-color: rgba(128, 128, 128, 0.418);
+  }
+  
+  .row {
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+    justify-content: space-between;
+  }
+  
+  .clear-small-button {
+    border: none;
+    width: 25%;
+    border-bottom: solid 1px rgba(128, 128, 128, 0.178);
+    border-right: solid 1px rgba(128, 128, 128, 0.274);
+  }
+  
+  .clear-large-button {
+    border: none;
+    width: 50%;
+    border-bottom: solid 1px rgba(128, 128, 128, 0.288);
+    border-right: solid 1px rgba(128, 128, 128, 0.26);
+  }
+  
+  .operator-button {
+    background: rgba(255, 166, 0, 0.39);
+    border: solid 1px rgba(231, 231, 231, 0.418);
+  }
+  
