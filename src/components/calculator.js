@@ -23,9 +23,10 @@ const Calculator = () => {
   } else if (next) {
     result = `${next} ${op || ""}`;
   }
+
   return (
     <section className="calculator-section">
-      <h2>Let do some Maths!</h2>
+      <h2>Let's do some Maths!</h2>
       <div className="container">
         <div className="input-field">
           <p>{result || 0}</p>
