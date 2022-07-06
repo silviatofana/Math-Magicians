@@ -10,8 +10,8 @@ class App extends Component {
   render() {
     return (
       <>
-      <Header/>
-        <Routes>
+       <Header />
+      <Routes>
           <Route path="/" element={<Home />} />
           <Route path="Quote" element={<Quote />} />
           <Route path="Calculator" element={<Calculator />} />
