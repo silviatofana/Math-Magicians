@@ -40,6 +40,9 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 4. - [ ] Run `npm install` to install the necessary modules
 5. - [ ] Run `npm start`
 
+ Feel free to check the https://app-tests-heroku.herokuapp.com/
+ Feel free to check the https://app-tests--voluble-alfajores-60db6f.netlify.app/
+
 
 ## Authors
 
