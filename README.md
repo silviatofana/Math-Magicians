@@ -18,7 +18,9 @@ https://github.com/silviatofana/Math-Magicians.git
 
 ### Live Demo
 
+
 <!-- Click [here](https://silviatofana.github.io/Math-Magicians/)! -->
+
 Coming soon!
 
 ### Prerequisites
@@ -48,7 +50,12 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 - LinkedIn: [@silviatofana](www.linkedin.com/in/silvia-tofana-10b852186)
 - Twitter: [@silviatofana](https://twitter.com/SilviaTofana)
 
+👤 **Ibrahim naseer **
 
+I am an aspiring web developer from pakistan.
+- GitHub: [@ibrahimgit](https://github.com/ibrahim777764)
+- Twitter: [Ibrahimtwit](https://twitter.com/Ibrahim66650696)
+- LinkedIn: [@ibrahimlin](https://www.linkedin.com/in/ibrahim-naseer-215667225/)
 
 
 ## Show your support
@@ -59,3 +66,6 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone who helped us.
 
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
